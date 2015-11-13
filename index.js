@@ -2,7 +2,7 @@
 
 var through = require('through2');
 var path = require('path');
-var bless = require('bless');
+var bless = require('bless-hn');
 var gutil = require('gulp-util');
 var merge = require('merge');
 var File = gutil.File;
